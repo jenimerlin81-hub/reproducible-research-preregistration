@@ -1,0 +1,2 @@
+exposed_n,comparator_n,exposed_mean,comparator_mean,mean_difference,ci_lower,ci_upper,welch_t_statistic,welch_p_value,mann_whitney_p_value
+10,10,85.6,59.6,25.999999999999993,21.312361788704244,30.68763821129574,10.871146130092177,2.6141765373667144e-09,0.00018267179110955002
